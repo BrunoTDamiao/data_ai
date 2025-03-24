@@ -11,7 +11,7 @@ O **DataInsightsAI** é um assistente inteligente para análise de dados, projet
 - Suporte a consultas em linguagem natural.
 - Visualização de dados interativa.
 - Suporte a bancos de dados SQL e NoSQL.
-- Implementação modular e escalável via Docker.
+
 
 ## Tecnologias Utilizadas
 - **Linguagens**: Python
@@ -21,10 +21,6 @@ O **DataInsightsAI** é um assistente inteligente para análise de dados, projet
   - FastAPI (criação da API)
   - LangChain (integração com modelos de linguagem)
   - Matplotlib, Seaborn, Plotly (visualização de dados)
-- **Infraestrutura e DevOps**:
-  - Docker (containerização)
-  - PostgreSQL, MongoDB (bancos de dados)
-  - AWS/GCP/Azure (cloud computing)
   
 ## Instalação
 ### Pré-requisitos
